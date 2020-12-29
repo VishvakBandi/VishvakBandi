@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VishvakBandi.VishvakBandi)
 
@@ -6,6 +6,11 @@ I am Vishvak Bandi, currently in my Junior year at the [University of Texas at D
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishvak-bandi/)](https://www.linkedin.com/in/vishvak-bandi/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/VishvakBandi/)](https://instagram.com/VishvakBandi)
+
+## Speaking
+[UTD CSG Tech Talk - IOT Deep Dive](https://www.youtube.com/watch?v=jrlyVFDEpGU&t)
+[UTD CSG Tech Talk - History of Hacking](https://www.youtube.com/watch?v=-9X6p2hvs8U)
+[UTD CSG x WiCyS - Intro to CTFs](https://www.youtube.com/watch?v=pyVjLnm9rPE)
 
 ## ⚡ Technologies
 
