@@ -1,7 +1,6 @@
 ### Hi there 👋
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VishvakBandi.VishvakBandi)
-<!--
-**VishvakBandi/VishvakBandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am Vishvak Bandi, currently in my Junior year at the [University of Texas at Dallas](https://utdallas.edu), majoring in Computer Science, with a minor in Information Assaurence and Political Science. Currently, I'm working on my app, [BikeTracks](https://github.com/VishvakBandi/BikeTracks-Frontend/). In addition, I am an Industry Coordinator for [HackUTD](http://hackutd.co/), a division of [The Association for Computing Machinery](https://www.acmutd.co/) at UT Dallas, the Director of Community and Outreach at the [UTDesign Makerpsace](https://utdmaker.space/), and an officer with the [Computer Security Group](https://csg.utdallas.edu/). 
 
