@@ -2,17 +2,19 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VishvakBandi.VishvakBandi)
 
-I am Vishvak Bandi, currently in my Junior year at the [University of Texas at Dallas](https://utdallas.edu), majoring in Computer Science, with a minor in Information Assaurence and Political Science. Currently, I'm working on my app, [BikeTracks](https://github.com/VishvakBandi/BikeTracks-Frontend/). In addition, I am an Industry Coordinator for [HackUTD](http://hackutd.co/), a division of [The Association for Computing Machinery](https://www.acmutd.co/) at UT Dallas, the Director of Community and Outreach at the [UTDesign Makerpsace](https://utdmaker.space/), and an officer with the [Computer Security Group](https://csg.utdallas.edu/). 
+I am Vishvak Bandi, currently in my Junior year at the [University of Texas at Dallas](https://utdallas.edu), majoring in Computer Science, with a minor in Information Assaurence and Political Science. Currently, I'm working on my app, [BikeTracks](https://github.com/VishvakBandi/BikeTracks-Frontend/). In addition, I am an Industry Coordinator for [HackUTD](http://hackutd.co/), a division of [The Association for Computing Machinery](https://www.acmutd.co/) at UT Dallas, the Director of Community and Outreach at the [UTDesign Makerpsace](https://utdmaker.space/), and an officer with the [Computer Security Group](https://csg.utdallas.edu/). I also worked with the Jonsson School of Engineering as a Teaching Assistant for the Fall 2020 semester in introduction to engineering classes.
 
+# Find me online 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishvak-bandi/)](https://www.linkedin.com/in/vishvak-bandi/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/VishvakBandi/)](https://instagram.com/VishvakBandi)
 
-## Speaking
+## Speaking 🗣️
+
 [UTD CSG Tech Talk - IOT Deep Dive](https://www.youtube.com/watch?v=jrlyVFDEpGU&t)  
 [UTD CSG Tech Talk - History of Hacking](https://www.youtube.com/watch?v=-9X6p2hvs8U)  
 [UTD CSG x WiCyS - Intro to CTFs](https://www.youtube.com/watch?v=pyVjLnm9rPE)  
 
-## ⚡ Technologies
+## Technologies 💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
